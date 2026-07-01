@@ -248,7 +248,19 @@ python program.py
 **Pal Anghan**
 MERN Stack Developer (Fresher) · Final-Year BCA, ITM SLS Baroda University
 
-[![GitHub](https://img.shields.io/badge/GitHub-PalAnghan-black?style=for-the-badge&logo=github)](https://github.com/PalAnghan)
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pal_Anghan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pal-anghan/)
+[![Gmail](https://img.shields.io/badge/Email-palanghan8%40gmail.com-C8102E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palanghan8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PalAnghan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PalAnghan)
+
+<sub>Open to internship & entry-level MERN stack opportunities — feel free to reach out 👋</sub>
 
 </div>
 
