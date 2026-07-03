@@ -227,26 +227,12 @@ python program.py
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PalAnghan&theme=radical&hide_border=true&background=00000000&stroke=C8102E&ring=C8102E&fire=C8102E&currStreakLabel=C8102E)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalAnghan&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=C8102E&icon_color=C8102E)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PalAnghan&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=C8102E)
-
-</div>
-
----
 
 ## 👤 Author
 
 <div align="center">
 
 **Pal Anghan**
-MERN Stack Developer (Fresher) · Final-Year BCA, ITM SLS Baroda University
 
 </div>
 
@@ -260,7 +246,6 @@ MERN Stack Developer (Fresher) · Final-Year BCA, ITM SLS Baroda University
 [![Gmail](https://img.shields.io/badge/Email-palanghan8%40gmail.com-C8102E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palanghan8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PalAnghan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PalAnghan)
 
-<sub>Open to internship & entry-level MERN stack opportunities — feel free to reach out 👋</sub>
 
 </div>
 
